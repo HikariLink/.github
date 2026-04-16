@@ -71,7 +71,7 @@
 
 | 平台 | 链接 |
 |------|------|
-| 📧 Email | [contact@hikarilink.dev](mailto:contact@hikarilink.dev) |
+| 📧 Email | [contact@hikarilink.org](mailto:contact@hikarilink.org) |
 | 🐙 GitHub | [@HikariLink](https://github.com/HikariLink) |
 | 💬 Discussions | [GitHub Discussions](https://github.com/orgs/HikariLink/discussions) |
 
