@@ -1,6 +1,9 @@
 <div align="center">
 
+<img width="1408" height="768" alt="IMG_20260422_132550" src="https://github.com/user-attachments/assets/cb096511-35f8-4495-9f53-7090a8d7a035" />
+
 # ✨ HikariLink
+
 
 **光与连接，始于此刻 · Where Light Meets Connection**
 
